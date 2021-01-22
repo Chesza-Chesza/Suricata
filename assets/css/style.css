@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bg-pink {
+    background-color: #e83e8c;
+}
+
+.gray {
+    color: #707070;
+}
